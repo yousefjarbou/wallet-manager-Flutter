@@ -8,5 +8,7 @@ From designing the frontend interface to implementing various functionalities, I
 
 In summary, Wallet Manager served as my hands-on learning journey into Flutter Mobile development. While it may seem straightforward to experts, for me, it was a gratifying challenge that enabled me to acquire valuable skills and knowledge.
 
-![1 main on w](https://github.com/yousefjarbou/wallet-manager-Flutter/assets/166923297/a29bca22-4339-4f64-854c-bedcc011316d)
+![wwallet](https://github.com/yousefjarbou/wallet-manager-Flutter/assets/166923297/e724ccd2-9abb-42bd-b079-8deb6dca0bb9)
 
+## Download the App
+You can download the Wallet Manager app from the Google Play Store [here](https://play.google.com/store/apps/details?id=com.yousocysumo.walletmanagersumo).
