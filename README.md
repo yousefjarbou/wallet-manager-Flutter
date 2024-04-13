@@ -1,4 +1,4 @@
-# Wallet Manager Flutter Mobile APP
+# Wallet Manager Flutter Mobile APP Jan 2023
 
 Wallet Manager is a simple and user-friendly app designed to help you track your expenses effortlessly. With customizable features, you can create your own spending categories and manage multiple wallets. Gain insights into your spending habits by identifying your top categories and viewing detailed reports of your daily averages and category expenditures.
 
